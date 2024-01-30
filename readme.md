@@ -13,9 +13,9 @@
 
 2. Now, create a function that you give a suiting name of your choice. Do remember to call it, otherwise it won't work.
 
-What the code should look like so far:
+   What the code should look like so far:
 
-const nameOfYourVariable = **new Date().getHours()**
+   const nameOfYourVariable = **new Date().getHours()**
 
 **function nameOfYourFunction(){}**
 
